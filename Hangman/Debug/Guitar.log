@@ -1,0 +1,3 @@
+﻿  guitar.cpp
+C:\Users\user\source\repos\Guitar\Guitar\guitar.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+  Guitar.vcxproj -> C:\Users\user\source\repos\Guitar\Debug\Guitar.exe

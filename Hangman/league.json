@@ -1,0 +1,2221 @@
+{
+ "kind": "youtube#playlistListResponse",
+ "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/A3SKUmsBF1tUaPbaOu547kagCwQ\"",
+ "pageInfo": {
+  "totalResults": 48,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/J7lmp8rP3o68K3Y5LgmjTQFNFks\"",
+   "id": "PLbAFXJC0J5Ga3WxSJHOrkX6OYiixVqFMn",
+   "snippet": {
+    "publishedAt": "2020-04-05T23:17:33.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Tales of Runeterra | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BTnVvmqB9fY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BTnVvmqB9fY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BTnVvmqB9fY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BTnVvmqB9fY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BTnVvmqB9fY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Tales of Runeterra | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 2
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/3ZCweIOtQpjCiSefDkhYIsqESVY\"",
+   "id": "PLbAFXJC0J5GaC1_OrCtZhz0dxFRBj13G7",
+   "snippet": {
+    "publishedAt": "2019-06-25T17:43:03.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Teamfight Tactics | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pYUTQGa98FI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pYUTQGa98FI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pYUTQGa98FI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pYUTQGa98FI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pYUTQGa98FI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Teamfight Tactics | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 9
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/RwZLI-IOYnNfKnZzpzP_BBzDy7I\"",
+   "id": "PLbAFXJC0J5GbBS2n1O9RVjIhYNVKkCdZt",
+   "snippet": {
+    "publishedAt": "2019-06-06T10:25:25.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Music Themes | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Music Themes | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 8
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/Ya1iXHuZSvbdbba2FBEIpCXInno\"",
+   "id": "PLbAFXJC0J5GaupX-BYDsT12YfCUppoxHc",
+   "snippet": {
+    "publishedAt": "2018-08-18T00:13:21.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Cinematics | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oKt58b7AwJc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oKt58b7AwJc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oKt58b7AwJc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oKt58b7AwJc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oKt58b7AwJc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Cinematics | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 61
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/qVWGTeZ73w4ZtN8NpnvdFPI5pRw\"",
+   "id": "PLbAFXJC0J5GanbANaPaaWYB6Vdc_JPZ6n",
+   "snippet": {
+    "publishedAt": "2018-07-06T23:25:47.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Play Your Way | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Play Your Way | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 3
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/2WG9eVO6O2TnyEgOkOd65B9xw1g\"",
+   "id": "PLbAFXJC0J5GZOzHeeZgyz4wWxP3z-4ulz",
+   "snippet": {
+    "publishedAt": "2018-05-31T15:01:22.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Legends of Bilgewater | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1wj21zLtgAA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1wj21zLtgAA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1wj21zLtgAA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1wj21zLtgAA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1wj21zLtgAA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Legends of Bilgewater | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 6
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/hApb6DaKGNU2PKhGBUQ6iUNcoCU\"",
+   "id": "PLbAFXJC0J5GYP9ithYPBGC8bYWbvSk83C",
+   "snippet": {
+    "publishedAt": "2018-05-29T07:48:47.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2018 Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g2mara8nFVE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g2mara8nFVE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g2mara8nFVE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/g2mara8nFVE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/g2mara8nFVE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2018 Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 6
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/tctTWswBBhEMvV3KsmZpaKBkfN4\"",
+   "id": "PLbAFXJC0J5GYUB3JsLqltenB6cvyCqTP4",
+   "snippet": {
+    "publishedAt": "2018-04-25T16:56:03.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "What is League of Legends?",
+    "description": "We asked the League of Legends Community to help us answer the question \"What is League of Legends?\"",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Gnsq2lseMk0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Gnsq2lseMk0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Gnsq2lseMk0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Gnsq2lseMk0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Gnsq2lseMk0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "What is League of Legends?",
+     "description": "We asked the League of Legends Community to help us answer the question \"What is League of Legends?\""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 6
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/K7npRJHeQTi9mPGA1HNfdFAS63E\"",
+   "id": "PLbAFXJC0J5GbNojXJ_Q4EM64YaWcNVxG6",
+   "snippet": {
+    "publishedAt": "2017-11-07T21:27:18.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Paths to Victory | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-sMwUTAj0LQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-sMwUTAj0LQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-sMwUTAj0LQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-sMwUTAj0LQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-sMwUTAj0LQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Paths to Victory | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 5
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/_gc54woiOFf1tEY0PyZGPL1-1rg\"",
+   "id": "PLbAFXJC0J5GbfFf6WIaTQ_7ECy92C43Sg",
+   "snippet": {
+    "publishedAt": "2017-09-15T20:43:38.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Esports Anthems | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m4QUHYglDjU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m4QUHYglDjU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m4QUHYglDjU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/m4QUHYglDjU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/m4QUHYglDjU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Esports Anthems | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 25
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/CUkIXH46LKTqPnJmfbEZsX21P84\"",
+   "id": "PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS",
+   "snippet": {
+    "publishedAt": "2017-08-09T20:27:44.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Music Videos | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sVZpHFXcFJw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sVZpHFXcFJw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sVZpHFXcFJw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sVZpHFXcFJw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sVZpHFXcFJw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Music Videos | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 17
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/A2YyX1ozNetI0AuqAuF3-jIVVmY\"",
+   "id": "PLbAFXJC0J5GYT2tX25xantkJsF4PvIDgA",
+   "snippet": {
+    "publishedAt": "2017-07-06T20:51:21.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2017 Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Rro20bR4jnQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Rro20bR4jnQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Rro20bR4jnQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Rro20bR4jnQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Rro20bR4jnQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2017 Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 6
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/6pWqCPZbGDUFHlkN9VW9xFJDhNY\"",
+   "id": "PLbAFXJC0J5GajAc20gAbuq3NJk5BGYY9u",
+   "snippet": {
+    "publishedAt": "2017-06-05T20:10:05.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Dev Videos | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gI65xHnD5Yc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gI65xHnD5Yc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gI65xHnD5Yc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Dev Videos | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 24
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/QE6aOC26Kyzzz2hsrwZaCYaO-3Y\"",
+   "id": "PLbAFXJC0J5GZE7mKZnWgJj7J60ft4NLdv",
+   "snippet": {
+    "publishedAt": "2017-05-18T18:01:47.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "League Animation Workshop | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bn6b36Z4kl8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bn6b36Z4kl8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bn6b36Z4kl8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Bn6b36Z4kl8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Bn6b36Z4kl8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "League Animation Workshop | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 4
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/V0zipDsjNuRjOdbIEymn-1tEEqI\"",
+   "id": "PLbAFXJC0J5GZvC5TjJv5RxPUKlCvh-Ihr",
+   "snippet": {
+    "publishedAt": "2016-12-13T06:20:45.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2016 Highlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J29UzpGvZXk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J29UzpGvZXk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J29UzpGvZXk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/J29UzpGvZXk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/J29UzpGvZXk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2016 Highlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 31
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/c0WIL1ZgrGwGQ-oz4RTtHOPRMSY\"",
+   "id": "PLbAFXJC0J5GYlk_H0jnMI9_6frXGqESZT",
+   "snippet": {
+    "publishedAt": "2016-11-02T21:12:36.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2017 Season Updates | League of Legends",
+    "description": "Updates for the 2017 Season and Preseason!\nFor more information visit: http://na.leagueoflegends.com/en/featured/preseason-2017",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GTJ-5prY98U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GTJ-5prY98U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GTJ-5prY98U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GTJ-5prY98U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GTJ-5prY98U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2017 Season Updates | League of Legends",
+     "description": "Updates for the 2017 Season and Preseason!\nFor more information visit: http://na.leagueoflegends.com/en/featured/preseason-2017"
+    }
+   },
+   "contentDetails": {
+    "itemCount": 4
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/pW8Ykr9d3UDYS9vUM9bm7961k7U\"",
+   "id": "PLbAFXJC0J5GaW5nFJxL4d9MeAF2QlyfZ_",
+   "snippet": {
+    "publishedAt": "2016-11-02T00:19:39.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Snowdown | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6-3DoKLtUJM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6-3DoKLtUJM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6-3DoKLtUJM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6-3DoKLtUJM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6-3DoKLtUJM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Snowdown | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 10
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/d1V1tTs92pkQNalweR_jtSmbtpw\"",
+   "id": "PLbAFXJC0J5GZEDMnL7F-z9XPCPuOBe7dc",
+   "snippet": {
+    "publishedAt": "2016-11-01T23:46:25.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "World Championships | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r7dAJi7UAnE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r7dAJi7UAnE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r7dAJi7UAnE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/r7dAJi7UAnE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/r7dAJi7UAnE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "World Championships | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 24
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/SCqI1mqaxoftEs_NnymlGl88QU8\"",
+   "id": "PLbAFXJC0J5Gad4BjO1jsNG-1eS-bx_qVM",
+   "snippet": {
+    "publishedAt": "2016-11-01T23:34:57.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2016 Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JIIE0LCvGpo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JIIE0LCvGpo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JIIE0LCvGpo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JIIE0LCvGpo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JIIE0LCvGpo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2016 Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 10
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/5RlWckoiMRH7prNQQgq_NJrP6WA\"",
+   "id": "PLbAFXJC0J5Gbm8GClBPYzdxseUBCHwBnm",
+   "snippet": {
+    "publishedAt": "2016-11-01T23:34:05.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2015 Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/633CHC6TTYY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/633CHC6TTYY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/633CHC6TTYY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/633CHC6TTYY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/633CHC6TTYY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2015 Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 8
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/oRa2N8MgQRx07QckLAlzlLnJ0Bk\"",
+   "id": "PLbAFXJC0J5GYXfwiysZNStsmmtKHCeBvG",
+   "snippet": {
+    "publishedAt": "2016-11-01T23:31:33.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2014 Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IWA2C8tUG-g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IWA2C8tUG-g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IWA2C8tUG-g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IWA2C8tUG-g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IWA2C8tUG-g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2014 Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 8
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/8Tvd3nTnCkfm_xloJIapjKy2_JM\"",
+   "id": "PLbAFXJC0J5GYGjx28Q2zox3hBYw_saIro",
+   "snippet": {
+    "publishedAt": "2016-11-01T23:29:47.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2013 Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Sv95nBi7ulQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Sv95nBi7ulQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Sv95nBi7ulQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Sv95nBi7ulQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2013 Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 14
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/btVZkQZLVcrPxocaIb3bH39-C8M\"",
+   "id": "PLbAFXJC0J5Gal92CJTlIyAuAfC_KoxJfR",
+   "snippet": {
+    "publishedAt": "2016-11-01T23:26:39.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2012 Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B18qApcVCRg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B18qApcVCRg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B18qApcVCRg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/B18qApcVCRg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2012 Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 27
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/EHmoHxfljaufyIaMxA6VtNl71qw\"",
+   "id": "PLbAFXJC0J5GZWS5c90fIFfTbp2BdjP-k8",
+   "snippet": {
+    "publishedAt": "2016-11-01T23:23:16.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2011 Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KFNFY6-gaDA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KFNFY6-gaDA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KFNFY6-gaDA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KFNFY6-gaDA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2011 Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 34
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/mkrAuPhSko0jUJHRkAlPXjtB75U\"",
+   "id": "PLbAFXJC0J5GadrQ6pDHDyelNltAwIYBQ8",
+   "snippet": {
+    "publishedAt": "2016-11-01T23:17:22.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "2010 Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uH_ZuyB-frY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uH_ZuyB-frY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uH_ZuyB-frY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uH_ZuyB-frY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uH_ZuyB-frY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "2010 Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 25
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/8Li-sdtPk8hbUIHEELR5q62zEJ0\"",
+   "id": "PLbAFXJC0J5GZaiWYMuvQVJ8Kw4rA-VUaq",
+   "snippet": {
+    "publishedAt": "2016-10-31T23:36:04.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Mechs vs Minions | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hr2vgmO1_og/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hr2vgmO1_og/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hr2vgmO1_og/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hr2vgmO1_og/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hr2vgmO1_og/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Mechs vs Minions | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 2
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/UeXO_c3tBvJrWP84q_9YXwiw4es\"",
+   "id": "PLbAFXJC0J5GbxcrdY3ooaL5yYUr3m6Xpn",
+   "snippet": {
+    "publishedAt": "2016-10-31T22:23:44.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Skins Teaser & Trailer | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qcH4xsdUj3M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qcH4xsdUj3M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qcH4xsdUj3M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qcH4xsdUj3M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qcH4xsdUj3M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Skins Teaser & Trailer | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 71
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/EDvbEp1PikUj4AEuoTlyxquCRXs\"",
+   "id": "PLbAFXJC0J5GbTCzxrZz1Sfeoik1GNcqXR",
+   "snippet": {
+    "publishedAt": "2016-10-31T21:20:43.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Playmakers | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gS06-Dhl9ic/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gS06-Dhl9ic/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gS06-Dhl9ic/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gS06-Dhl9ic/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gS06-Dhl9ic/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Playmakers | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 5
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/kIecUvUqxuA7FZIEwPA5G9giVCg\"",
+   "id": "PLbAFXJC0J5GaiA-ggGbLMq6lfj75pPqIl",
+   "snippet": {
+    "publishedAt": "2016-10-31T19:04:32.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Stick Figure Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2Hbd8BoFNJs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2Hbd8BoFNJs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2Hbd8BoFNJs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2Hbd8BoFNJs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2Hbd8BoFNJs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Stick Figure Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 5
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/Jp-hUgffdLUGmQqMDCxcLyyXWpI\"",
+   "id": "PLbAFXJC0J5GaX2s9RLhSinXC9MRfdijQ1",
+   "snippet": {
+    "publishedAt": "2016-10-31T18:57:43.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Summoner Showcase | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_jE_ObGdGO8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_jE_ObGdGO8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_jE_ObGdGO8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_jE_ObGdGO8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_jE_ObGdGO8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Summoner Showcase | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 98
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/Yi7TGZ_1_GBvNA5hbN-3Uzb3Dvw\"",
+   "id": "PLbAFXJC0J5GYTmLC72rT-d7UsbCy6VHek",
+   "snippet": {
+    "publishedAt": "2016-10-31T18:23:11.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "The Art of League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HUEhfKe5e08/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HUEhfKe5e08/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HUEhfKe5e08/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HUEhfKe5e08/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HUEhfKe5e08/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "The Art of League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 35
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/8KG4-4DW2CCNvTTyzQxQ2ceIUwc\"",
+   "id": "PLbAFXJC0J5GY0XX60HauqeYWcR9tDaZI1",
+   "snippet": {
+    "publishedAt": "2016-09-09T00:10:18.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Legends Rising Season 2 | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W62IJtPwwx8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W62IJtPwwx8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W62IJtPwwx8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/W62IJtPwwx8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/W62IJtPwwx8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Legends Rising Season 2 | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 7
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/CWbe3DUiEEkLQDGXeWFbdxEFOQw\"",
+   "id": "PLbAFXJC0J5Gb9HcdQR2TTESjtoLIaVRab",
+   "snippet": {
+    "publishedAt": "2016-08-12T17:24:05.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Man At Arms | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yEwne-IEG9s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yEwne-IEG9s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yEwne-IEG9s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yEwne-IEG9s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yEwne-IEG9s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Man At Arms | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 5
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/kfK3xB2qdG_Hsjz5q3LtlJZufJQ\"",
+   "id": "PLbAFXJC0J5GavMmReZVHI8JaIe0JgymTI",
+   "snippet": {
+    "publishedAt": "2016-08-12T00:41:50.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Teasers & Trailers | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jNn2F39G-6s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jNn2F39G-6s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jNn2F39G-6s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jNn2F39G-6s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/jNn2F39G-6s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Teasers & Trailers | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 87
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/XOtf12BYFW42bV9e_fChWDMDnr8\"",
+   "id": "PLbAFXJC0J5GbAJUneweh-6SnNV99GnP4i",
+   "snippet": {
+    "publishedAt": "2016-08-10T20:04:46.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Live/Play | League of Legends",
+    "description": "Live/Play is a global mini-series that goes into and beyond League of Legends, seeking out stories of individual players and local communities and how they interact in unique and personal ways.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QT0ZAdsrD30/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QT0ZAdsrD30/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QT0ZAdsrD30/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QT0ZAdsrD30/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QT0ZAdsrD30/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Live/Play | League of Legends",
+     "description": "Live/Play is a global mini-series that goes into and beyond League of Legends, seeking out stories of individual players and local communities and how they interact in unique and personal ways."
+    }
+   },
+   "contentDetails": {
+    "itemCount": 8
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/-iKP-qCDcJUrAhteLLmqibiokVI\"",
+   "id": "PLbAFXJC0J5GafojrBAPAH5BnGju9WLSRc",
+   "snippet": {
+    "publishedAt": "2016-04-25T18:27:57.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Pocket Picks | League of Legends",
+    "description": "Welcome to Pocket Picks, where pro players share tips and tricks to help you master the champions closest to their hearts.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0VhpC2fzXis/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0VhpC2fzXis/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0VhpC2fzXis/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0VhpC2fzXis/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0VhpC2fzXis/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Pocket Picks | League of Legends",
+     "description": "Welcome to Pocket Picks, where pro players share tips and tricks to help you master the champions closest to their hearts."
+    }
+   },
+   "contentDetails": {
+    "itemCount": 8
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/vUnjSLMk5YeK0gB5dPVnfZxOMs8\"",
+   "id": "PLbAFXJC0J5GZ8gOHG2lYyuTmSG33gtGAG",
+   "snippet": {
+    "publishedAt": "2016-01-07T01:40:23.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Warsongs | League of Legends",
+    "description": "Warsongs is an anthology of 11 classic League tunes remixed and amped up for your competitive climb. Download the album here: http://na.leagueoflegends.com/en/site/warsongs/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Nqqc2FHf9Ug/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Nqqc2FHf9Ug/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Nqqc2FHf9Ug/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Nqqc2FHf9Ug/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Nqqc2FHf9Ug/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Warsongs | League of Legends",
+     "description": "Warsongs is an anthology of 11 classic League tunes remixed and amped up for your competitive climb. Download the album here: http://na.leagueoflegends.com/en/site/warsongs/"
+    }
+   },
+   "contentDetails": {
+    "itemCount": 11
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/veUi3lWgcOk1-BQ1ZLnrCQyXUjM\"",
+   "id": "PLbAFXJC0J5GZHUtGea_zQR0OyD3UBuw9s",
+   "snippet": {
+    "publishedAt": "2015-03-24T00:43:14.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Login Screens | League of Legends",
+    "description": "League of Legends Login Screen",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EeyPmIssreo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EeyPmIssreo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EeyPmIssreo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EeyPmIssreo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EeyPmIssreo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Login Screens | League of Legends",
+     "description": "League of Legends Login Screen"
+    }
+   },
+   "contentDetails": {
+    "itemCount": 167
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/NopmAVD4DP8byvNi8REaEDijidc\"",
+   "id": "PLbAFXJC0J5GYw9Kb6NFAWHRZ26pNfpN1i",
+   "snippet": {
+    "publishedAt": "2015-02-03T18:33:04.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "DJ Sona's Ultimate Music | League of Legends",
+    "description": "DJ Sona’s 2015 Ultimate Skin Music - A musical collaboration between Riot Games, Nosaj Thing, Pretty Lights, The Crystal Method, Dada Life, Bassnectar, and Renholdër.\n\nDrop the beat in League of Legends with high-energy Kinetic beats, hard-hitting Concussive rhythms, and atmospheric Ethereal vibes.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cxa1Y71Lgyg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cxa1Y71Lgyg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cxa1Y71Lgyg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cxa1Y71Lgyg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/cxa1Y71Lgyg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "DJ Sona's Ultimate Music | League of Legends",
+     "description": "DJ Sona’s 2015 Ultimate Skin Music - A musical collaboration between Riot Games, Nosaj Thing, Pretty Lights, The Crystal Method, Dada Life, Bassnectar, and Renholdër.\n\nDrop the beat in League of Legends with high-energy Kinetic beats, hard-hitting Concussive rhythms, and atmospheric Ethereal vibes."
+    }
+   },
+   "contentDetails": {
+    "itemCount": 3
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/s1WaGgesD6BwLPGgMgC11MOrGWM\"",
+   "id": "PLbAFXJC0J5Gae5_5P4coPFJqSpj8EVeN7",
+   "snippet": {
+    "publishedAt": "2015-01-27T10:29:40.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "The Soundtrack of League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "The Soundtrack of League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 169
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/vwQFAYwMmqn9KHEBYWY1G0eQQ20\"",
+   "id": "PLbAFXJC0J5Gbonfy9puOzif7sLD8I87pC",
+   "snippet": {
+    "publishedAt": "2014-09-15T15:34:51.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Road to Worlds | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q0wEW6NAPuE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q0wEW6NAPuE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q0wEW6NAPuE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q0wEW6NAPuE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/q0wEW6NAPuE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Road to Worlds | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 3
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/fae0QBy3ljkrfaGJ48QSO0Ud2o8\"",
+   "id": "PLbAFXJC0J5Gb9hzEYU5buZd4udIuIUheP",
+   "snippet": {
+    "publishedAt": "2014-05-21T17:41:55.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Pentakill: The Collection | League of Legends",
+    "description": "After devastating Runeterra with their ear-splitting riffs and ground-pounding rhythms, the metal monolith that is Pentakill has finally reached our shores.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oUiOylPbfV0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oUiOylPbfV0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oUiOylPbfV0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oUiOylPbfV0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oUiOylPbfV0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Pentakill: The Collection | League of Legends",
+     "description": "After devastating Runeterra with their ear-splitting riffs and ground-pounding rhythms, the metal monolith that is Pentakill has finally reached our shores."
+    }
+   },
+   "contentDetails": {
+    "itemCount": 18
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/LDJFZGczWt4YD6WEU0eNZTekhPc\"",
+   "id": "PLbAFXJC0J5GaVjPNNw_i-oLNKc7bVQcFk",
+   "snippet": {
+    "publishedAt": "2014-03-19T20:25:34.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Champion Spotlights | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S6r5TwgDL4Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S6r5TwgDL4Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S6r5TwgDL4Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/S6r5TwgDL4Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/S6r5TwgDL4Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Champion Spotlights | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 155
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/vQwJXcyxN8af-E7r8Dk9rE5XtNc\"",
+   "id": "PLbAFXJC0J5GbPCHf3sFaiQZ0aafvq598x",
+   "snippet": {
+    "publishedAt": "2014-02-13T23:17:42.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Featured Videos | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/X7DA9rWn4ro/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/X7DA9rWn4ro/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/X7DA9rWn4ro/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/X7DA9rWn4ro/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/X7DA9rWn4ro/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Featured Videos | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 35
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/T9UQ4bSmZ_zU7I5JQEBNdg7Ji40\"",
+   "id": "PLbAFXJC0J5GZS4aNqACmUbuGE7KHSQB3q",
+   "snippet": {
+    "publishedAt": "2013-05-26T08:20:36.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Creative | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tEnsqpThaFg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tEnsqpThaFg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tEnsqpThaFg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tEnsqpThaFg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tEnsqpThaFg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Creative | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 78
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/rWSZsriPW8DKCn5p--kboEB7K2E\"",
+   "id": "PLbAFXJC0J5GaHhhF6ql7LOJbbiY3GaoXc",
+   "snippet": {
+    "publishedAt": "2013-01-10T20:01:27.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Esports | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sHeUKmUoJzc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sHeUKmUoJzc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sHeUKmUoJzc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sHeUKmUoJzc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sHeUKmUoJzc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "localized": {
+     "title": "Esports | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 45
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/9y0xJ4O-LqY2L4rYpR1ur8C-RKQ\"",
+   "id": "PL5C21EBCCB32F15E3",
+   "snippet": {
+    "publishedAt": "2011-05-08T05:58:50.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Gameplay | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RrSNXkBQ4K8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RrSNXkBQ4K8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RrSNXkBQ4K8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RrSNXkBQ4K8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RrSNXkBQ4K8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "tags": [
+     "Tamat",
+     "Guinsoo",
+     "Phreak",
+     "Morello",
+     "Patch",
+     "Preview",
+     "Update",
+     "New",
+     "Game",
+     "Online",
+     "Free",
+     "f2p",
+     "Champions",
+     "Balance",
+     "MMO",
+     "League of Legends",
+     "Riot Games",
+     "fun",
+     "comic"
+    ],
+    "localized": {
+     "title": "Gameplay | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 28
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/MhmnqW1wyBtNo7FXNFOpmU6GfxE\"",
+   "id": "PL06B086479804D6C9",
+   "snippet": {
+    "publishedAt": "2011-05-08T05:57:19.000Z",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "title": "Community | League of Legends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YK5kh_mPbKI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YK5kh_mPbKI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YK5kh_mPbKI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YK5kh_mPbKI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YK5kh_mPbKI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "League of Legends",
+    "tags": [
+     "Niksaur",
+     "Riot Games",
+     "League of Legends",
+     "game",
+     "online",
+     "MMO",
+     "free",
+     "f2p",
+     "Los Angeles",
+     "creative",
+     "summoner",
+     "art",
+     "music",
+     "videos",
+     "comedy"
+    ],
+    "localized": {
+     "title": "Community | League of Legends",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "itemCount": 103
+   }
+  }
+ ]
+}
